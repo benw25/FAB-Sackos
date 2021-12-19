@@ -1,12 +1,12 @@
-## Current Champion
+## Champion
 
-**Dave**
+###**Dave**
 
-## Current Sacko
+## Sacko
 
-Xing
+####Xing
 
-### Historical
+#### History
 
 | Year | Champion  | Sacko |
 | ---  | ---       | ---   |
