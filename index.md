@@ -1,10 +1,8 @@
-* * *
-
 ## Dave (Champion)
 
 ## Xing (Sacko)
 
-## History
+#### History
 
 | Year | Champion  | Sacko |
 | ---  | ---       | ---   |
