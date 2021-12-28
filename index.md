@@ -14,4 +14,4 @@
 | 2016 | Aure      | Joe   |
 | 2015 | Lucas     | David |
 | 2014 | Dean*     | David |
-| 2013 | Lucas     | Jerry |
+| 2013 | Lucas     | Dave  |
