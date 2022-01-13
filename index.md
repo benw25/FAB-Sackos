@@ -6,7 +6,7 @@
 
 | Year | Champion  | Sacko |
 | ---  | ---       | ---   |
-| 2021 | TBD       | TBD   |
+| 2021 | Ben       | Xing  |
 | 2020 | Dave      | Xing  |
 | 2019 | Mike      | Ben   |
 | 2018 | Kyle      | Xing  |
